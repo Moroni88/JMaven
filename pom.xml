@@ -70,7 +70,7 @@
             <artifactId>maven-checkstyle-plugin</artifactId>
             <version>4.0.0</version>
             <configuration>
-                <configLocation>checkstyle.xml</configLocation>
+                <configLocation>google_checks.xml</configLocation>
             </configuration>
         </plugin>
     </plugins>
